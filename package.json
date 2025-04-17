@@ -1,0 +1,13 @@
+{
+  "name": "data-elegant-generator",
+  "version": "1.0.0",
+  "description": "Node.js and Express and Webpack based data generator in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
